@@ -1,0 +1,35 @@
+body{ background:  url(http://pittcooking.com/wp-content/uploads/2017/12/PITTBlack02-1200x430.jpg),center,no-repeat;
+background-size: cover;
+;
+
+
+}
+
+form{ border-bottom-color: black;
+color: white;
+background-color: black;
+text-align: center;
+}
+
+p{text-align: center;
+    color:white;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.search{background-color: black;
+color: white;}
+img{
+    
+    margin-left: 40%;
+    text-align: center;
+    
+}
