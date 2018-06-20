@@ -1,8 +1,6 @@
-body{ background:  url(http://pittcooking.com/wp-content/uploads/2017/12/PITTBlack02-1200x430.jpg),center,no-repeat;
+body{ background:  url(http://pittcooking.com/wp-content/uploads/2017/12/PITTBlack02-1200x430.jpg)no-repeat,center;
 background-size: cover;
-;
-
-
+background-color: black;
 }
 
 form{ border-bottom-color: black;
@@ -32,4 +30,6 @@ img{
     margin-left: 40%;
     text-align: center;
     
+}
+
 }
